@@ -1,4 +1,6 @@
 <!-- Banner -->
+<h1 align="center">Hi 👋, I'm Harshit Saxena</h1>
+<h3 align="center">A Passionate Full-Stack Developer | Go, React, TypeScript | Building Scalable Systems</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey,+I'm+Harshit+Saxena!;Full-Stack+Developer+🚀;Go,+React,+TypeScript+Enthusiast;&center=true&width=500&height=50&color=00bfff&vCenter=true&size=22&pause=1000">
 </p>
