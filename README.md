@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" title="Redux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="40" alt="Next.js" title="Next.js"/>
+  <img src="https://img.icons8.com/?size=100&id=gwR0hbBi5JeZ&format=png&color=FFFFFF" height="40" alt="Next.js" title="Next.js"/>
   <img src="https://reactnative.dev/img/header_logo.svg" height="40" alt="React Native" title="React Native"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img src="https://raw.githubusercontent.com/onsi/ginkgo/master/docs/images/ginkgo.png" height="40" alt="Ginkgo" title="Ginkgo - Go Testing"/>
