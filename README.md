@@ -73,5 +73,9 @@
 > _“Turning coffee ☕ into code and ideas into reality!”_
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="550" alt="Coding GIF" />
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=100&section=footer"/>
 </p>
