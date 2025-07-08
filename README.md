@@ -12,12 +12,10 @@
 
 ---
 
-<div display="flex">
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
 </p>
 
-<p>
 ## 🚀 About Me
 
 - 🔭 I build **innovative and purpose-driven** full-stack applications.
@@ -26,7 +24,7 @@
 - 🧠 Lifelong learner with a curiosity for new tech.
 - 🎨 Strong eye for design — I blend aesthetics with functionality.
 </p>
-</div>
+
 ---
 
 ## 🛠️ Tech Stack
