@@ -44,7 +44,7 @@
   <img src="https://reactnative.dev/img/header_logo.svg" height="40" alt="React Native" title="React Native"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS"/>
   <img src="https://raw.githubusercontent.com/onsi/ginkgo/master/docs/images/ginkgo.png" height="40" alt="Ginkgo" title="Ginkgo - Go Testing"/>
-  <img src="https://avatars.githubusercontent.com/u/57658043?s=200&v=4" height="40" alt="GSAP" title="GSAP Animation Library"/>
+  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAuCAYAAABXuSs3AAAAAXNSR0IArs4c6QAAAepJREFUaEPtl4FOwzAMRLMvA74M+DLgy0AHPXT1zqkF0VCRK03TWsc+PztxdxknvS4n1T1a+K0r18SbeJFAt0oR1DKzJr4MZdFREy+CWmbWxJehLDr618TvxxiPG4i3Mcbr9lE2aoP7sHsy8GCHj15qd/T8e90R8RcTCIsfRDwCMzEVhARhp9e7SUY1ZPGeI4iZ8MwJYlNUJpr6KgmqBpeY85X+kYiCkDEuJQtR2iJMRhNWUpkoCteYLt6OekZcg3ABREKUEkAi7FmtAm24H6IoBeCEOwi71nPCI+1ZO8VkrnpxyyCCcMJdpbLq2VZR4ZqlOyXwXKsQNy5+RxBoMV1DMK7K7t4nC0fTGWebEOvdM92UkVpMFj5i5ZzfndbfCI/V0PJnp05VJNbreV86DpU4yfH0oDM4ioNIyTrhuIfBdBdEZVXjBrf75qfE4Wx2NLINZ+cyhUGDs2Oibm/ZHo+DJytb3AtKkkHdRI3Dk8Kxhuc3h5wZtF+3HPG4UeJits9sssaKMBH4iq2itu41wYrPzmh3UpAIvnFlCbqpp3HcVGZlsjlwJf7oJUt3NgVHJ3yj43NNTCeorot+K3F2cY+Epz321w9a+K0r0MSbeJFAt0oR1DKzJr4MZdFREy+CWmbWxJehLDo6LfEPlWOKL//HewUAAAAASUVORK5CYII=" height="40" alt="GSAP" title="GSAP Animation Library"/>
 </p>
 
 ---
