@@ -2,7 +2,7 @@
 <p align="center"><strong>Software Developer | Creative Coder | Idea Builder</strong></p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/hs8449865663/" target="_blank">
+  <a href="https://leetcode.com/u/CoderHArsit/" target="_blank">
     <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/harshit-saxena-35b70b211/" target="_blank">
@@ -54,7 +54,7 @@
 ## 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/hs8449865663?theme=transparent&font=Baloo+Bhai+2&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/CoderHArsit?theme=transparent&font=Baloo+Bhai+2&ext=contest" alt="LeetCode Stats" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://leetcode.com/u/hs8449865663/" target="_blank">
+  <a href="https://leetcode.com/u/CoderHArsit/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
   <a href="https://www.linkedin.com/in/harshit-saxena-35b70b211/" target="_blank">
