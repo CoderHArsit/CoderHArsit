@@ -1,5 +1,4 @@
 <h1 align="center">Hey there, I'm Harshit Saxena 👋</h1>
-<p align="center"><strong>Software Developer | Creative Coder | Idea Builder</strong></p>
 
 <p align="center">
   <a href="https://leetcode.com/u/CoderHArsit/" target="_blank">
@@ -16,19 +15,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding GIF" />
 </p>
 
----
-
-
-## 🚀 About Me
-
-- 🔭 I build **innovative and purpose-driven** full-stack applications.
-- 🤝 I love to **collaborate on meaningful projects** and startups.
-- 🌱 Currently exploring **AI, LLMs, and scalable backend systems**.
-- 🧠 Lifelong learner with a curiosity for new tech.
-- 🎨 Strong eye for design — I blend aesthetics with functionality.
-</p>
-
----
+------
 
 ## 🛠️ Tech Stack
 
@@ -57,20 +44,6 @@
   <img src="https://leetcard.jacoblin.cool/CoderHArsit?theme=transparent&font=Baloo+Bhai+2&ext=contest" alt="LeetCode Stats" />
 </p>
 
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://leetcode.com/u/CoderHArsit/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.linkedin.com/in/harshit-saxena-35b70b211/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
----
 
 > _“Turning coffee ☕ into code and ideas into reality!”_
 
